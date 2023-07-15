@@ -5,3 +5,7 @@ The MultilayerNFT software is a small introductory demo of a larger whole. Our g
 
 # SETUP FILE
 To install the program as setup, enter the debug folder in the Multilayer NFT 1.0 folder. You can install it with Setup.exe
+
+
+# FOR MEMBERS OF OUR NFT COMMUNITY
+The png versions of your NFTs are also in the folders between the files. You can access the contents by decoding them through the program.
